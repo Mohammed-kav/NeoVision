@@ -10,3 +10,5 @@ A bright white LED illuminates the target surface, and an LDR (Light Dependent R
 * **Microcontroller:** Arduino Nano
 * **Components:** LDR, bright white LED, OLED screen
 * **Enclosure:** Fully 3D-printed. It features precise LED/LDR alignment and built-in light shielding to ensure consistent and accurate sensor readings.
+## Acknowledgments
+* Project idea inspired by and adapted from: **LDR Color Checker – HackMakeMod**: https://hackmakemod.com/blogs/projects/ldr-color-checker
